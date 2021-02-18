@@ -18,5 +18,6 @@ namespace SomerenUI
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new SomerenUI());
         }
+
     }
 }
