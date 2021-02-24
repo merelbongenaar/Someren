@@ -13,3 +13,13 @@ C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\S
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenDAL\bin\Debug\SomerenModel.dll
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenDAL\bin\Debug\SomerenModel.pdb
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb

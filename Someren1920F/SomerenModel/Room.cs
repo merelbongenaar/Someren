@@ -13,5 +13,6 @@ namespace SomerenModel
         public bool Type { get; set; } // student = false, teacher = true
 
 
+
     }
 }

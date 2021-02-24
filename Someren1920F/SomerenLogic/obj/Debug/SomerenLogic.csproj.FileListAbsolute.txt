@@ -16,3 +16,15 @@ C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\S
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb

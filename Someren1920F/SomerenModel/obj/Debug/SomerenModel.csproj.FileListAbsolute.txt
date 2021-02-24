@@ -8,3 +8,9 @@ C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\S
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenModel\obj\Debug\SomerenModel.csprojResolveAssemblyReference.cache
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
