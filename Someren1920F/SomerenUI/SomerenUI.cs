@@ -99,5 +99,10 @@ namespace SomerenUI
         {
 
         }
+
+        private void roomsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

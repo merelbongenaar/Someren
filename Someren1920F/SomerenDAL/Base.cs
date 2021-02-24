@@ -8,7 +8,8 @@ namespace SomerenDAL
     public abstract class Base
     {
         private SqlDataAdapter adapter;
-        private SqlConnection conn;
+        public SqlConnection conn;
+
         public Base()
         {
             // DO NOT FORGET TO INSERT YOUR CONNECTION STRING NAMED 'SOMEREN DATABASE' IN YOUR APP.CONFIG!!
