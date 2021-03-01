@@ -13,13 +13,12 @@ namespace SomerenDAL
 {
     public class Student_DAO : Base
     {
-        //24.02 changed appconfig file
       
         public List<Student> Db_Get_All_Students()
         {
             OpenConnection();
 
-            string query = "SELECT personID, firstName, lastName FROM [Person]";
+            string query = "SELECT personID, firstName, lastName, birthDate FROM [Person]";
             SqlParameter[] sqlParameters = new SqlParameter[0];
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));
 
@@ -35,8 +34,9 @@ namespace SomerenDAL
                 Student student = new Student()
                 {
                     Number = (int)dr["personID"],
-                    Name = (String)(dr["firstName"].ToString()) + (String)(dr["lastName"].ToString())
-
+                    FirstName = (String)(dr["firstName"].ToString()),
+                    LastName = (String)(dr["lastName"].ToString()),
+                    BirthDate = (DateTime)(dr["birthDate"])
                 };
                 students.Add(student);
             }

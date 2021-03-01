@@ -31,7 +31,7 @@ namespace SomerenDAL
                 Student student = new Student()
                 {
                     Number = (int)dr["personID"],
-                    Name = (String)(dr["firstName"].ToString())
+                    FirstName = (String)(dr["firstName"].ToString())
                 };
                 students.Add(student);
             }
