@@ -60,7 +60,9 @@ namespace SomerenUI
                 {
 
                     ListViewItem li = new ListViewItem(s.Name);
+                    ListViewItem lii = new ListViewItem(s.Number.ToString());
                     listViewStudents.Items.Add(li);
+                    listViewStudents.Items.Add(lii);
                 }
             }
         }

@@ -7,7 +7,7 @@ namespace SomerenDAL
 {
     public abstract class Base
     {
-        private SqlDataAdapter adapter;
+        private SqlDataAdapter adapter; 
         private SqlConnection conn;
 
         public Base()
