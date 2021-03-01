@@ -17,11 +17,13 @@ namespace SomerenDAL
       
         public List<Student> Db_Get_All_Students()
         {
-            conn.Open();
+            OpenConnection();
 
             string query = "SELECT student_id, student_name FROM [TABLE]";
             SqlParameter[] sqlParameters = new SqlParameter[0];
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));
+
+            
         }
 
         private List<Student> ReadTables(DataTable dataTable)

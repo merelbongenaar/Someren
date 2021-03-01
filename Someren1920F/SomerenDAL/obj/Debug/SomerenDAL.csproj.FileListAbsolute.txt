@@ -23,3 +23,13 @@ C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Somer
 C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\merel\source\repos\2021 IT1.3 Project Databases\poging76483273784\Someren1920F\SomerenDAL\bin\Debug\System.Security.Principal.Windows.xml
